@@ -1,0 +1,16 @@
+{
+  "model": "RandomForestRegressor",
+  "samples": 6000,
+  "train_samples": 4800,
+  "test_samples": 1200,
+  "joint_angle_mae_deg": {
+    "theta1": 4.866378471659442,
+    "theta2": 5.1941164752989195
+  },
+  "joint_angle_rmse_deg": {
+    "theta1": 6.3209851205843135,
+    "theta2": 6.591210043334467
+  },
+  "end_effector_position_mae_m": 0.07183489375477152,
+  "end_effector_position_rmse_m": 0.09016497967623281
+}
